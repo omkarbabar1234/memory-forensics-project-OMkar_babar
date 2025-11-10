@@ -1,0 +1,2 @@
+SHA256 hash of memdump.mem:
+67dd22310c13df18a486b03d25604517cd8177e7df7f7d0b1b0ec69566994fec
